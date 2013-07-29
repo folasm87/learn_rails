@@ -127,7 +127,8 @@ DEPENDENCIES
   pg
   rails (= 4.0.0)
   rails_12factor
-  sass-rails (~> 4.0.0)
+  rake
+  sass-rails
   sdoc
   sqlite3
   thin
